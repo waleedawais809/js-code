@@ -8,3 +8,5 @@ console.log(Math.min(10, 20, 5, 30));
 console.log(Math.random()); 
 console.log(Math.sqrt(25)); 
 console.log(Math.pow(2, 3)); 
+
+// hello this us jjjofkosfk  dksfj edfldn dcednjde 
